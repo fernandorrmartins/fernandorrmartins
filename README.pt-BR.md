@@ -1,58 +1,58 @@
-![Fernando R. R. Martins — IA + Salesforce](assets/profile-banner.png)
+<p align="center"><img src="assets/profile-banner.png" alt="AI + Salesforce — @fernandorrmartins" /></p>
 
-# Fernando R. R. Martins
+<h1 align="center">Fernando R. R. Martins</h1>
 
-**Desenvolvedor Salesforce sênior · Desenvolvimento assistido por IA**
+<p align="center"><a href="README.md">English</a> · <b>Português</b></p>
 
-[English](README.md) · **Português** · [LinkedIn](https://www.linkedin.com/in/fernandorrmartins/)
+<p align="center">Desenvolvo com Salesforce e exploro IA aplicada ao desenvolvimento de software.<br />
+🎓 Pós em Engenharia de Software com IA Aplicada · em andamento.</p>
 
-Desenvolvo soluções, integrações e fluxos de negócio em Salesforce e ajudo equipes a aplicar ferramentas de IA no desenvolvimento. Com **mais de 7 anos em Salesforce**, **mais de 9 anos em desenvolvimento de software** e **8 certificações Salesforce**, conecto minha experiência na plataforma ao foco atual em IA aplicada.
+<h3 align="center">Tecnologias</h3>
 
-## IA no trabalho e nos estudos
+<p align="center">
+  <img src="assets/visual/salesforce.png" height="36" alt="Salesforce" />
+  <img src="assets/visual/apex.png" height="36" alt="Apex" />
+  <img src="assets/visual/lwc.png" height="36" alt="LWC" />
+  <img src="assets/visual/flow.png" height="36" alt="Flow" />
+  <br />
+  <img src="assets/visual/javascript.png" height="36" alt="JavaScript" />
+  <img src="assets/visual/python.png" height="36" alt="Python" />
+  <img src="assets/visual/csharp.png" height="36" alt="C#" />
+  <img src="assets/visual/java.png" height="36" alt="Java" />
+  <img src="assets/visual/html.png" height="36" alt="HTML" />
+  <img src="assets/visual/css.png" height="36" alt="CSS" />
+  <img src="assets/visual/git.png" height="36" alt="Git" />
+</p>
 
-- **No trabalho:** atuo como referência técnica em desenvolvimento Salesforce assistido por IA e compartilho práticas sobre gestão de tokens, skills, instruções e regras. Minhas ferramentas incluem Claude / Claude Code, GitHub Copilot, Cursor e Codex.
-- **Nos estudos:** curso a pós-graduação em **Engenharia de Software com IA Aplicada** no Centro Universitário Anhanguera Pitágoras Unopar, de **agosto de 2026 a agosto de 2027 (em andamento)**. Os temas do programa incluem LLMs, RAG, MCP, agentes autônomos com LangGraph e IA para DevOps.
+<h3 align="center">IA no meu editor</h3>
 
-## Entregas em destaque
+<p align="center">
+  <img src="assets/visual/claude.png" height="36" alt="Claude Code" />
+  <img src="assets/visual/copilot.png" height="36" alt="GitHub Copilot" />
+  <img src="assets/visual/cursor.png" height="36" alt="Cursor" />
+  <img src="assets/visual/codex.png" height="36" alt="Codex" />
+</p>
 
-- **Ipiranga:** desenvolvi notificações por território sobre postos cujos contratos com concorrentes haviam terminado, reduzindo o tempo para os representantes comerciais receberem essa informação de **mais de 7 dias para 20 minutos**.
-- **Cielo, pela Provider IT:** liderei a reconstrução do principal fluxo de negociação para viabilizar novos tipos de produto e entregar uma nova experiência de front-end ao cliente.
-- **Syngenta, pela ICON, com alocação via Accenture:** desenvolvo e evoluo soluções Salesforce em **três orgs globais independentes**, incluindo comunidades Experience Cloud.
+<h3 align="center">Código & projetos</h3>
 
-## Tecnologias e práticas
+<p align="center">
+  <a href="https://github.com/fernandorrmartins/salesforce-debug-module"><img src="assets/visual/project-debug-pt-BR.png" width="400" alt="Salesforce Debug Module" /></a>
+  <a href="https://github.com/Hikari-Family/sfdc-async-mailer"><img src="assets/visual/project-mailer-pt-BR.png" width="400" alt="SFDC Async Mailer — Hikari-Family" /></a>
+  <a href="https://github.com/fernandorrmartins/RocketSeat-NextLevelWeek-1"><img src="assets/visual/project-nlw-pt-BR.png" width="400" alt="Next Level Week 1" /></a>
+  <a href="https://github.com/fernandorrmartins/OpenTibia-Unity"><img src="assets/visual/project-opentibia-pt-BR.png" width="400" alt="OpenTibia-Unity (fork)" /></a>
+</p>
 
-| Área | Tecnologias e práticas |
-| --- | --- |
-| Salesforce | Apex, LWC, SOQL, Flow, Experience Cloud |
-| Integrações e segurança | APIs REST / SOAP, Named Credentials, permission sets, sharing rules |
-| Linguagens e web | JavaScript, Python, HTML, CSS |
-| Entrega | Git, Salesforce CLI, Jenkins, Scrum, Kanban |
+<p align="center"><a href="https://github.com/fernandorrmartins?tab=repositories">Todos os repositórios</a> · <a href="https://github.com/fernandorrmartins/salesforce-debug-module/stargazers">Estrelas do Debug Module</a> · <a href="https://github.com/fernandorrmartins/salesforce-debug-module/forks">Forks do Debug Module</a></p>
 
-## Repositórios fixados
+<h3 align="center">Atividade no GitHub</h3>
 
-- **[Salesforce Debug Module](https://github.com/fernandorrmartins/salesforce-debug-module)** — ferramenta de depuração em Apex.
-- **[SFDC Async Mailer](https://github.com/Hikari-Family/sfdc-async-mailer)** — kit de envio assíncrono de e-mails em Salesforce, hospedado na Hikari-Family.
+<p align="center">
+  <a href="https://github.com/fernandorrmartins#js-contribution-activity"><img src="assets/visual/commits.png" height="36" alt="Commits" /></a>
+  <a href="https://github.com/fernandorrmartins#js-contribution-activity-description"><img src="assets/visual/contributions.png" height="36" alt="Contribuições" /></a>
+  <a href="https://github.com/fernandorrmartins?tab=repositories&amp;type=fork"><img src="assets/visual/forks.png" height="36" alt="Forks" /></a>
+  <a href="https://github.com/fernandorrmartins?tab=stars"><img src="assets/visual/stars.png" height="36" alt="Repositórios que favoritei" /></a>
+</p>
 
-## Certificações Salesforce
+<p align="center"><sub>Contribuições e commits no perfil; estrelas e forks nas páginas dos repositórios.</sub></p>
 
-**Platform Developer II** · **Sharing and Visibility Architect**
-
-<details>
-<summary>Ver as 8 certificações</summary>
-
-- Platform Developer II
-- Platform Developer I
-- JavaScript Developer I
-- Sharing and Visibility Architect
-- Platform App Builder
-- Advanced Administrator
-- Administrator
-- Associate
-
-</details>
-
-[Ver certificações no LinkedIn](https://www.linkedin.com/in/fernandorrmartins/details/certifications/)
-
----
-
-**Vamos conversar:** [LinkedIn](https://www.linkedin.com/in/fernandorrmartins/) · Brasil · Português nativo · Inglês avançado
+<p align="center"><a href="https://www.linkedin.com/in/fernandorrmartins/">Vamos conversar ↗</a></p>

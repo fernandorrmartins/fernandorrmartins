@@ -1,58 +1,58 @@
-![Fernando R. R. Martins — AI + Salesforce](assets/profile-banner.png)
+<p align="center"><img src="assets/profile-banner.png" alt="AI + Salesforce — @fernandorrmartins" /></p>
 
-# Fernando R. R. Martins
+<h1 align="center">Fernando R. R. Martins</h1>
 
-**Senior Salesforce Developer · AI-assisted development**
+<p align="center"><b>English</b> · <a href="README.pt-BR.md">Português</a></p>
 
-**English** · [Português](README.pt-BR.md) · [LinkedIn](https://www.linkedin.com/in/fernandorrmartins/)
+<p align="center">I build with Salesforce and explore AI for software development.<br />
+🎓 Postgraduate studies in Software Engineering with Applied AI · in progress.</p>
 
-I develop Salesforce solutions, integrations, and business workflows, and help teams apply AI tools in their development work. With **7+ years on Salesforce**, **9+ years in software development**, and **8 Salesforce certifications**, I bring platform experience to my current focus on applied AI.
+<h3 align="center">Tech stack</h3>
 
-## AI in my work and studies
+<p align="center">
+  <img src="assets/visual/salesforce.png" height="36" alt="Salesforce" />
+  <img src="assets/visual/apex.png" height="36" alt="Apex" />
+  <img src="assets/visual/lwc.png" height="36" alt="LWC" />
+  <img src="assets/visual/flow.png" height="36" alt="Flow" />
+  <br />
+  <img src="assets/visual/javascript.png" height="36" alt="JavaScript" />
+  <img src="assets/visual/python.png" height="36" alt="Python" />
+  <img src="assets/visual/csharp.png" height="36" alt="C#" />
+  <img src="assets/visual/java.png" height="36" alt="Java" />
+  <img src="assets/visual/html.png" height="36" alt="HTML" />
+  <img src="assets/visual/css.png" height="36" alt="CSS" />
+  <img src="assets/visual/git.png" height="36" alt="Git" />
+</p>
 
-- **At work:** I serve as a technical reference for AI-assisted Salesforce development and share practices around token management, skills, instructions, and rules. My toolkit includes Claude / Claude Code, GitHub Copilot, Cursor, and Codex.
-- **In my studies:** I am pursuing a postgraduate specialization in **Software Engineering with Applied AI** at Centro Universitário Anhanguera Pitágoras Unopar, **August 2026–August 2027 (in progress)**. Program topics include LLMs, RAG, MCP, autonomous agents with LangGraph, and AI for DevOps.
+<h3 align="center">AI in my editor</h3>
 
-## Selected work
+<p align="center">
+  <img src="assets/visual/claude.png" height="36" alt="Claude Code" />
+  <img src="assets/visual/copilot.png" height="36" alt="GitHub Copilot" />
+  <img src="assets/visual/cursor.png" height="36" alt="Cursor" />
+  <img src="assets/visual/codex.png" height="36" alt="Codex" />
+</p>
 
-- **Ipiranga:** built territory-based notifications about fuel stations whose competitor contracts had ended, reducing the time for sales representatives to receive that information from **over 7 days to 20 minutes**.
-- **Cielo, through Provider IT:** led the reconstruction of the main negotiation workflow to support new product types and deliver a new front-end customer experience.
-- **Syngenta, through ICON, assigned via Accenture:** develop and evolve Salesforce solutions across **three independent global orgs**, including Experience Cloud communities.
+<h3 align="center">Code & projects</h3>
 
-## Technical toolkit
+<p align="center">
+  <a href="https://github.com/fernandorrmartins/salesforce-debug-module"><img src="assets/visual/project-debug-en.png" width="400" alt="Salesforce Debug Module" /></a>
+  <a href="https://github.com/Hikari-Family/sfdc-async-mailer"><img src="assets/visual/project-mailer-en.png" width="400" alt="SFDC Async Mailer — Hikari-Family" /></a>
+  <a href="https://github.com/fernandorrmartins/RocketSeat-NextLevelWeek-1"><img src="assets/visual/project-nlw-en.png" width="400" alt="Next Level Week 1" /></a>
+  <a href="https://github.com/fernandorrmartins/OpenTibia-Unity"><img src="assets/visual/project-opentibia-en.png" width="400" alt="OpenTibia-Unity (fork)" /></a>
+</p>
 
-| Area | Technologies and practices |
-| --- | --- |
-| Salesforce | Apex, LWC, SOQL, Flow, Experience Cloud |
-| Integrations & security | REST / SOAP APIs, Named Credentials, permission sets, sharing rules |
-| Languages & web | JavaScript, Python, HTML, CSS |
-| Delivery | Git, Salesforce CLI, Jenkins, Scrum, Kanban |
+<p align="center"><a href="https://github.com/fernandorrmartins?tab=repositories">All repositories</a> · <a href="https://github.com/fernandorrmartins/salesforce-debug-module/stargazers">Debug Module stars</a> · <a href="https://github.com/fernandorrmartins/salesforce-debug-module/forks">Debug Module forks</a></p>
 
-## Pinned repositories
+<h3 align="center">GitHub activity</h3>
 
-- **[Salesforce Debug Module](https://github.com/fernandorrmartins/salesforce-debug-module)** — an Apex debugging tool.
-- **[SFDC Async Mailer](https://github.com/Hikari-Family/sfdc-async-mailer)** — a Salesforce asynchronous email toolkit, hosted by Hikari-Family.
+<p align="center">
+  <a href="https://github.com/fernandorrmartins#js-contribution-activity"><img src="assets/visual/commits.png" height="36" alt="Commits" /></a>
+  <a href="https://github.com/fernandorrmartins#js-contribution-activity-description"><img src="assets/visual/contributions.png" height="36" alt="Contributions" /></a>
+  <a href="https://github.com/fernandorrmartins?tab=repositories&amp;type=fork"><img src="assets/visual/forks.png" height="36" alt="Forks" /></a>
+  <a href="https://github.com/fernandorrmartins?tab=stars"><img src="assets/visual/stars.png" height="36" alt="Repositories I starred" /></a>
+</p>
 
-## Salesforce certifications
+<p align="center"><sub>Contributions and commits on my profile; stars and forks on repository pages.</sub></p>
 
-**Platform Developer II** · **Sharing and Visibility Architect**
-
-<details>
-<summary>View all 8 certifications</summary>
-
-- Platform Developer II
-- Platform Developer I
-- JavaScript Developer I
-- Sharing and Visibility Architect
-- Platform App Builder
-- Advanced Administrator
-- Administrator
-- Associate
-
-</details>
-
-[View certifications on LinkedIn](https://www.linkedin.com/in/fernandorrmartins/details/certifications/)
-
----
-
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/fernandorrmartins/) · Brazil · Portuguese (native) · English (advanced)
+<p align="center"><a href="https://www.linkedin.com/in/fernandorrmartins/">Let’s connect ↗</a></p>
